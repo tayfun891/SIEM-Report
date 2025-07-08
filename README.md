@@ -10,9 +10,4 @@ This repository contains my hands-on SIEM lab report.
 
 ---
 
-📂 Reports:
-- [SIEM Lab Report](SIEM-Lab-Report.md)
-
----
-
 🔗 *More coming soon!*
